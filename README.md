@@ -1,70 +1,104 @@
-# Getting Started with Create React App
+# Calculator by Kauane Santos 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+	<img alt="Javascript" src="https://img.shields.io/badge/Javascript-0d1b2a?style=for-the-badge&logo=javascript">
+	<img alt="React" src="https://img.shields.io/badge/React-005CFE?style=for-the-badge&logo=react">
+	<img src = "https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>  
+	<img src = "https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>  
+</p>
 
-## Available Scripts
+<h1 align="center">
+    <img alt="Calculator Page" title="#CALCULATOR PAGE" src="src\assets\calculatorImg.png" />
+</h1>
 
-In the project directory, you can run:
+<h4 align="center"> 
+🧮 Calculator 🧮
+</h4>
 
-### `npm start`
+<p align="center">
+<a href="#about">About</a> •
+<a href="#functionalities">Functionalities</a> •
+<a href="#run">Run the project</a> •
+<a href="tecnologies">Tecnolgies<a/> •
+<a href="#deploy">Deployed version</a> •
+<a href="#license">License</a>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 💻 About the project
+<p id="about">
+Online calculator using HTML, CSS and JavaScript, providing a friendly and responsive interface. The project allows you to perform basic mathematical operations such as addition, subtraction, multiplication, division and percentage as well as including a built-in PI value.
+</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<p id="functionalities">
 
-### `npm test`
+ ## ⚙️ Functionalities
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Addition (+)
+- Subtraction (−)
+- Multiplication (×)
+- Division (÷)
+- Pi value (3.14159265358979)
+- Percentage (%)
+- Delete all numbers
+- Delete last number
 
-### `npm run build`
+<p id="run">
+  
+## 🏃‍♀️ Run the project
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+💡 try the deployed version: [Calculator](https://calculator-by-kauane.netlify.app/)
+```bash
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ 
+# Clone this repository:
+$ git clone git@github.com:Kauanedev/calculator-baggagio.git
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Access the project folder:
+$ cd calculator
 
-### `npm run eject`
+# Install dependencies:
+$ npm install
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Run the app in the development mode:
+$ npm run start
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Server will start on port:3000 - Open ~ http://localhost:3000 ~ to view it in your browser.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<p id="tecnologies">
+  
+  ## 🛠 Tecnologies 
+</p>
 
-## Learn More
+#### **Website**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+-   **[React](https://reactjs.org/)**
+-   **[CSS](https://css3.com/)**
+-   **[HTML](https://html.com/)**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+#### **Utilities** 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+-   Source-Code Editor:  **[Visual Studio Code](https://code.visualstudio.com/)** 
+-   Font: **[Antic Didone](https://fonts.googleapis.com/css2?family=Antic+Didone&display=swap)**
+---
 
-### Analyzing the Bundle Size
+<p id="deploy">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🚀 Deployed Application
+<p/>
 
-### Making a Progressive Web App
+  Visit my project and try it for yourself: [Calculator](https://calculator-by-kauane.netlify.app/)
+</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<p id="license">
+	
+## 📝 Licese
+</p>
 
-### Advanced Configuration
+This project is under license [MIT](./LICENSE).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Made with 💓 by Kauane Santos 👋 [Contact me!](https://www.linkedin.com/in/kauane-santos-dev/)
