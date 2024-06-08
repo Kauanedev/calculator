@@ -35,7 +35,3 @@ input, button {
     font-weight: 600;
     cursor: pointer;
 }
-
-input[type="button"]:hover {
-    background-color: #592bae;
-}

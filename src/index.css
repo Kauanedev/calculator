@@ -16,3 +16,7 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+button:hover{
+    background-color: #592bae;
+}
