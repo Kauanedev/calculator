@@ -56,7 +56,7 @@ function Main() {
           <button onClick={e => setValue('')} value='C'>C</button>
           <button onClick={percentage}>%</button>
           <button onClick={deleteLast}>Del</button>
-          <button onClick={operatorHandler}>/</button>
+          <button onClick={operatorHandler} value='/'>/</button>
         </div>
         <div>
 
